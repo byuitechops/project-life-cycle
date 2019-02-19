@@ -1,52 +1,56 @@
 # Key Components Doc for (Enter Title of Project)
 
-## Background
-Paragraph of the story of the needs of stakeholder, including **why** they need the tool and what they are hoping for.
+Author Name: 
+
+## 1. Basic Backlog (You may include a WBS image if you choose)
+
+For each work item/function/smallest piece of your project that needs to be accomplished, *create an entry in the key components doc* of the form:
+
+**Work item/function that needs to be done** 
+- How will that be accomplished 
+- Is there a library that accomplishes this task (First check the approved Library List) 
+- What skills are needed to accomplish this task.
+
+or said more concisely:
+
+**What** 
+- How
+- Library
+- Skill(s)
+
+Example:
+
+**Collect information from Existing Docs**
+- HOW: First check to see if docs with the name "README.md" or "PROJECTINFO.md" exist. If they do exist, read them in.
+- LIBRARY: File System (fs)
+- SKILLS: Know how to read files using fs.
 
 -----
 
-## Objectives
-Bullet List of **what** do they need done. 
+## 2. Library List
+Bullet list of all libraries planning to use
 
+Example:
+
+- D3-DSV library 
+- Promises
+- C# Classes
+- FS Library
+-----
+
+## 3. Prototype List
+Bullet list of all skills that are not yet developed and a corresponding description of a prototype. The prototype is used to help develop that skill.
+
+Example:
+
+- D3-DSV library
+    - Use the D3-DSV library to convert a simple JSON with keys: "Name", "Favorite Smash Bros Character", "Favorite Color", "Favorite Coding Language" into a CSV file.
+- Promises
+    - Create a program that reads in a file and returns a promise when the file read has completed.
 
 -----
 
-# Requirements
+## 4. Design Chart
 
-### Input Requirements
-#### Source of Inputs
-Paragraph of how to get inputs. Who from? From where? Slack, email, server, etc.
-#### Definition of Inputs
-What details are going to be provided. For example. JSON input, Course ID, CSV.
+Embed the photo of your design chart
 
----
-
-### Output Requirements
-#### Destination
-#### Definition of Outputs
-
----
-
-### Interface
-#### Type 
-CLI with Flags, CLI With Prompt, Web Page, Server, etc
-#### 
-What are the flags, what are Major Questions, Images of UX/UI Design.
-
------
-
-## Expectations
-
-### Timeline
-
-### Best Mode of Contact
-
-### Next Meeting
-
-
-### Action Items
-*Recap of Meeting*
-#### TechOps
-#### Stakeholder
-
------

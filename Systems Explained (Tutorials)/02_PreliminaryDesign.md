@@ -141,4 +141,10 @@ Congratulations! If you are reading this chances are your project has made it th
      For many projects, chances are you will only need one chart. You may find it useful on other projects to include 2 or 3 charts to chart the design. Keep in mind that at this stage the chart(s) should only include what is necessary. That being said, make sure not to leave anything out that would be an essential part of the design! (Or to use a project management term, this design should be [lean](https://www.asme.org/engineering-topics/articles/manufacturing-design/5-lean-principles-every-should-know).)
 
 
+    When you finish your design embed the design chart image *into the key components doc*.
+
+    ```
+    ![alt text](link to image)
+    ```
+
 And that's all! Now schedule a design approval meeting with your manager and/or team leads. Remember to go to the meeting with a "How can I improve my design?" attitude as it is very likely the design will change.
