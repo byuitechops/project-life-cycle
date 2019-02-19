@@ -26,9 +26,13 @@ Congratulations! If you are reading this chances are your project has made it th
 
     Example:
 
+    ---
+
     Let's use the Yeoman document generator project, and create a WBS for everything that needs to be done.
 
     ![Work Breakdown Structure of Document Generator](./images/SampleWBS.JPG)
+
+    ---
 
 0.  Create a Basic Backlog
 
@@ -47,41 +51,48 @@ Congratulations! If you are reading this chances are your project has made it th
      - Skill(s)
 
     Example:
-
-    >Using the Yeoman document generator project, we might have a list like this *in our Key Components Document*: <br><br>
-    >**Prompt for Project Information** 
-    > - HOW: Create questions using the enquirer library
-    > - LIBRARY: Enquirer
-    > - SKILLS: Know how to use enquirer
-    >
-    >**Run NPM Init and ensure that if the user does not accept the package.Json generated from NPM INIT, then run NPM INIT again**
-    > - HOW: Use Child Process Library and a do-while loop
-    > - LIBRARY: Child Process
-    > - SKILLS: Know how to use Child Process to run NPM INIT and transfer output and input from the original application to a third party application and then back to the original application when the third party application has finished.
-    >
-    >**Collect information from Existing Docs**
-    > - HOW: First check to see if docs with the name "README.md" or "PROJECTINFO.md" exist. If they do exist, read them in.
-    > - LIBRARY: File System (fs)
-    > - SKILLS: Know how to read files using fs.
-    >
-    >**Add BYU-I keys to existing JSON**
-    > - HOW: Use Object.Assign to properly merge the byui keys handling cases where the BYU-I keys exist and cases where they do not.
-    > - LIBRARY: None
-    > - SKILLS: Understand the intricacies of Object.Assign.
-    > 
-    > ... and the list goes on!
+    
+    ---
+    Using the Yeoman document generator project, we might have a list like this *in our Key Components Document*: <br><br>
+    **Prompt for Project Information** 
+     - HOW: Create questions using the enquirer library
+     - LIBRARY: Enquirer
+     - SKILLS: Know how to use enquirer
+    
+    **Run NPM Init and ensure that if the user does not accept the package.Json generated from NPM INIT, then run NPM INIT again**
+     - HOW: Use Child Process Library and a do-while loop
+     - LIBRARY: Child Process
+     - SKILLS: Know how to use Child Process to run NPM INIT and transfer output and input from the original application to a third party application and then back to the original application when the third party application has finished.
+    
+    **Collect information from Existing Docs**
+     - HOW: First check to see if docs with the name "README.md" or "PROJECTINFO.md" exist. If they do exist, read them in.
+     - LIBRARY: File System (fs)
+     - SKILLS: Know how to read files using fs.
+    
+    **Add BYU-I keys to existing JSON**
+     - HOW: Use Object.Assign to properly merge the byui keys handling cases where the BYU-I keys exist and cases where they do not.
+     - LIBRARY: None
+     - SKILLS: Understand the intricacies of Object.Assign.
+     
+     ... and the list goes on!
 
     *Note that the leaves of the WBS correspond to entries in the backlog.*
+    
+    ---
 
 0.  List the Libraries that you will be using
 
     Assuming you went through the previous step, this step should be easy. All you need to do is collect all the libraries you mentioned above and put them in a list on the Key Components Doc.
 
     Example:
+
+    ---
     - fs
     - enquirer
     - child process
     - http
+
+    ---
 
 0.  List the Prototypes Needed
 
@@ -98,6 +109,8 @@ Congratulations! If you are reading this chances are your project has made it th
     Once this list is constructed, expand each list item with a subheading, design a *simple* (emphasis on simple) prototype exercise that will turn into code that will not become part of the project (though the prototypes will be kept with the project for reference and sandboxing throughout the project). Do not start coding the prototypes until approval from your manager or leads. Be sure that the prototype that you choose uses that part of the library or that part of the concept that you will be using in your project. For example if I need to write a file using fs for my project, then I will make sure the prototype I design doesn't focus on reading files while leaving out writing files. Keep the prototype light weight and only focused on the skills that are needed for the project unless approval for a more in depth training prototype is granted by your manager.
 
     The entire output of this step will look something like this:
+
+    ---
        - D3-DSV library
             - Use the D3-DSV library to convert a simple JSON with keys: "Name", "Favorite Smash Bros Character", "Favorite Color", "Favorite Coding Language" into a CSV file.
        - Promises
@@ -107,7 +120,8 @@ Congratulations! If you are reading this chances are your project has made it th
        - FS Library
             - Create a program which asks for text and for a filename, then writes the text to a file with the specified filename.
 
-       
+    ---
+
 0.  The Design Chart
 
     Using either a whiteboard or an online design tool, create a design chart that fits your project, and include the link to the picture of the chart *in the key components doc*.
