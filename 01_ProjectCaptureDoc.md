@@ -21,7 +21,7 @@ Paragraph of how to get inputs. From who? From where: Slack, email, server...? T
 
 #### Definition of Inputs
 
-List here a type definition for each input? For example, if it is a CSV define the column names. If it is a JSON, give an example of the JSON structure. If it is user input, what will the user be asked for? 
+List here a type definition for each input. For example, if it is a CSV define the column names. If it is a JSON, give an example of the JSON structure. If it is user input, what will the user be asked for? 
 
 ---
 
@@ -38,7 +38,7 @@ List here a type definition for each output? For example, if the changes are dir
 
 ### Interface
 
-#### Type 
+#### Type: 
 
 CLI with Flags, CLI With Prompt, Web Page, Server, etc
 
@@ -58,7 +58,7 @@ What are the flags, what are Major Questions, Images of UX/UI Design.
 
 
 ### Action Items
-*Recap of Meeting*
+\**Recap Meeting*\*
 #### TechOps
 #### Stakeholder
 
