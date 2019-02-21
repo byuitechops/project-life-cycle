@@ -1,22 +1,25 @@
 # Title of Project
 
 ## Background
-Paragraph of the story of the needs of stakeholder, including **why** they need the tool and what they are hoping for.
+Paragraph describing context of the needs of the stakeholder. It should focus on the **why** of the project.
 
 -----
 
 ## Objectives
-Bullet List of **what** do they need done. 
-
+Bullet list sentences of **what** the tool should accomplish for them.
 
 -----
 
 # Requirements
 
 ### Input Requirements
+
 #### Source of Inputs
+
 Paragraph of how to get inputs. Who from? From where? Slack, email, server, etc.
+
 #### Definition of Inputs
+
 What details are going to be provided. For example. JSON input, Course ID, CSV.
 
 ---
