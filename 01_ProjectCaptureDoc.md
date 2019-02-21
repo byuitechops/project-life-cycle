@@ -1,4 +1,4 @@
-# Title of Project
+# Project Capture Document for (Title of Project)
 #### *Author: Your_Name_Here*
 
 ## Background
