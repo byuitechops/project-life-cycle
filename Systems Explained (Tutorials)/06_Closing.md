@@ -22,7 +22,7 @@ Closing the project is very straight forward. It's as easy as 1-2-3. Follow thes
 
     Determine with your manager/leads whether a formal maintenance plan document is necessary or if a word of mouth plan will suffice. Answer some of the questions below.
 
-    How long will this application be alive and how long will we maintain it? Who in the office will be the developer contact for this application (if bugs arise. This most likely will be the developer who created the application, but long term plans should be made to determine who will be the owner of the application in semesters to come.
+    How long will this application be alive and how long will we maintain it? Who in the office will be the developer contact for this application (if bugs arise. This most likely will be the developer who created the application, but long term plans should be made to determine who will be the owner of the application in semesters to come.)
     
 1. Lessons Learned Reported
 
