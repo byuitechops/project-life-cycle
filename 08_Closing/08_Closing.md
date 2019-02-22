@@ -1,4 +1,4 @@
-# 06 Closing
+# 08 Closing
 
 Closing the project is very straight forward. It's as easy as 1-2-3. Follow these steps:
 
