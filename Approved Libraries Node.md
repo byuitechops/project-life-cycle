@@ -2,7 +2,7 @@
 
 ## Non Native Node
 
-- Prompt - Synchronous Questions
+- Prompts - Is this a good library (should it be on this list?) https://www.npmjs.com/package/prompts
 - [Enquirer](https://github.com/enquirer/enquirer) - Asynchronous Questions
 - [D3-DSV](https://github.com/d3/d3-dsv) - Reading and Writing CSV Files
 - [Cheerio](https://github.com/cheeriojs/cheerio) - HTML editing
