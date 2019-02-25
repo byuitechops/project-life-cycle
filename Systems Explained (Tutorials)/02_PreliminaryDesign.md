@@ -9,7 +9,7 @@ This is the second stage of a project. This document that is output from this st
 1. Additionally this process produces a valuable document that will make the project both better documented and easily transferable.
 
 ### Deliverables
-1. Project Capture Document [template](../02_KeyComponentsDoc.md)
+1. Key Components Document [template](../02_KeyComponentsDoc.md)
 
 ### Time Estimate: 1-3 hours
 - *Depending on the project and knowledge of the developer, the time estimate may differ.*
