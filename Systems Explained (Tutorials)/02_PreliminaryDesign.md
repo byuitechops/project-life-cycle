@@ -21,9 +21,9 @@ Developers should anticipate that their design will change after conversations w
 Congratulations! If you are reading this chances are your project has made it through the Project Capture Process! Now you are ready to do some research, come up with a light weight design and prototype those parts of the design/project that you are learning (e.g. test a library that you've never used before)!  What follows are the steps of this process. The Key Components Doc will serve sort of as a worksheet as you make your way through this stage, but it will also serve as an artifact (a fancy way of saying a document that we want to keep for reference and historical purposes).
 
 
-0. Create a Work Breakdown Structure WBS *(OPTIONAL yet helpful)*
+0. Create a Work Breakdown Structure (WBS) - *OPTIONAL, yet helpful*
 
-    Creating a design can be a challenging feat especially when working in unknown territory (P.S. we work in unknown territory ALL the time!).
+    Creating a design can be a challenging feat, especially when working in unknown territory. It is important to note that we work in unknown territory ALL the time! After all, growth happens when we are in the unknown.
 
     This step is useful for breaking down projects into smaller pieces in order to learn all that needs to be done. [Click here for a short tutorial answering the question: What is a work breakdown structure?](https://www.tutorialspoint.com/management_concepts/work_breakdown_structure.htm)
 
@@ -44,15 +44,15 @@ Congratulations! If you are reading this chances are your project has made it th
     For each work item/function/smallest piece of your project that needs to be accomplished, *create an entry in the key components doc* of the form:
     
     **Work item/function that needs to be done** 
-    - How will that be accomplished 
-    - Is there a library that accomplishes this task (First check the approved Library List) 
-    - What skills are needed to accomplish this task.
+    - How will that be accomplished?
+    - Is there a library that accomplishes this task (be sure to check the Approved Library list)?
+    - What skills are needed to accomplish this task?
 
     or said more concisely:
 
     **What** 
      - How
-     - Library
+     - Library(s)
      - Skill(s)
 
     Example:
@@ -60,7 +60,7 @@ Congratulations! If you are reading this chances are your project has made it th
     ---
     Using the Yeoman document generator project, we might have a list like this *in our Key Components Document*: <br><br>
     **Prompt for Project Information** 
-     - HOW: Create questions using the enquirer library
+     - HOW: Create questions using the Enquirer library
      - LIBRARY: Enquirer
      - SKILLS: Know how to use enquirer
     
@@ -151,3 +151,14 @@ Congratulations! If you are reading this chances are your project has made it th
     ```
 
 And that's all! Now schedule a design approval meeting with your manager and/or team leads. Remember to go to the meeting with a "How can I improve my design?" attitude as it is very likely the design will change.
+
+
+> I think that the biggest mistake people make is latching onto the first idea that 
+> comes to them and trying to do that. It really comes to a thing that my folks  taught me about money. Don't buy something unless you've wanted it three times. 
+> Similarly, don't throw in a feature when you first think of it. Think if there's a 
+> way to generalize it, think if it should be generalized. Sometimes you can 
+> generalize things too much. I think like the things in Scheme were generalized too 
+> much. There is a level of abstraction beyond which people don't want to go. Take a 
+> good look at what you want to do, and try to come up with the *long-term lazy way*, 
+> not the short-term lazy way. - Larry Wall
+
