@@ -5,11 +5,13 @@
 
 
 ## Background
+### Explain the Problem
 Paragraph describing context of the needs of the stakeholder. It should focus on the **why** of the project.
 
 -----
 
-## Objectives
+## Objective
+### Explain the Solution
 Bullet list sentences of **what** the tool should accomplish for them.
 
 -----
