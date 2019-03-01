@@ -1,5 +1,8 @@
 # Project Capture Document for (Title of Project)
 #### *Author: Your_Name_Here*
+#### *Stakeholder(s): Their_Names_With_Commas*
+#### *Date: Todays Date*
+
 
 ## Background
 Paragraph describing context of the needs of the stakeholder. It should focus on the **why** of the project.
