@@ -1,7 +1,6 @@
 # 05 Full Design
 
-
-
+> Without requirements or design, programming is the art of adding bugs to an empty text file. - Louis Srygley
 
 ## Purpose and Overview
 
