@@ -8,16 +8,17 @@
 
 <!-- 
 
-Explain the Problem
-Paragraph describing context of the needs of the stakeholder. It should focus on the **why** of the project.  
+Explain the context of the problem.
+Explain key terms/words, words that may be unfamiliar to a new hire.
 
 
-Example 1: 
+Do Example: 
     
     Corey and his team have been manually going through the html for all images in canvas and entering alt image text.
     This has been very time consuming.
 
-Example 2:
+Don't Example:
+
 
     Without project templates, we have been left with readmes that share all different kinds of data, and some of them were missing key
     points of data. Additionally, we have no standard for code templates. We don't want to add a lot of overhead to setting up a project
@@ -27,18 +28,19 @@ Example 2:
 
 -----
 
-## Objective
-<!-- Explain the Solution
-Bullet list sentences of **what** the tool should accomplish for them.
-In one or two sentences explain the solution to the problem above.
+## Definition of Done
+<!-- 
 
+What is/are the project outcome(s)?
+("Can you give me one sentence describing what you want done?")
+We are trying to clean up the yard by Mow, Edge, and Rake.
 
-Example 1:
+Do Example:
 
     We are creating a tool to find all images that are in need of alt text in canvas 
     which will automate this process by showing an image and prompting for alt text.
 
-Example 2:
+Don't Example 2:
 
     We are using yeoman to create a generator that will add all needed documentation and
     set up the code with all needed scripts, templates, and integrations.
@@ -73,11 +75,11 @@ Example 2:
 
 ---
 
-### Interface
+### User Interface
 
-#### Type: 
+#### Type:
 
-<!-- CLI with Flags, CLI With Prompt, Web Page, Server, etc -->
+<!-- CLI with Flags, CLI With Prompt, Web Page, Server, Library, etc -->
 
 #### 
 
