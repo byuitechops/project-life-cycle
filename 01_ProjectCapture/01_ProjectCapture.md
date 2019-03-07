@@ -35,4 +35,17 @@ You are at this stage because an idea was decided important enough to potentiall
 		1. Things that the stakeholder(s) will do
 			- Be sure to include things that will hinder our progression, for example, they will email us a list of courses to act on
 
+
+### Best Case:
+
+1. Josh receives a request for work and sets up a meeting.
+1. Josh, a student and the stakeholder meet together and fill out Project Capture Doc on the spot.
+1. Project Capture Doc is approved by a Lead
+1. Leads/Josh determines who will do the project
     
+### Worst Case:
+
+1. Josh mentally captures a project from a stakeholder. (A student could gather this information, but only if they make it clear to the stakeholder that the project must be approved by Josh.
+1. Josh meets with a student next to a computer and while Josh shares the project, the student fills out the capture doc. (The student in this meeting will most likely be the student who is assigned to the project.)
+1. Project Capture Doc is approved by a Lead.
+1. If the project was not assigned to the student who created the project capture doc, Josh/Leads will assign the project at this time.
