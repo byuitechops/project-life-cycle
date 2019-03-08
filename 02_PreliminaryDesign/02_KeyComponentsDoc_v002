@@ -1,0 +1,24 @@
+# Key Components Doc for <Project>
+
+## Choose Your Design Pattern
+<!--
+Overall Design Pattern...
+...Design Pattern of specific boxes (parts):
+Model View Controller
+Model View Interface
+Adapter Pattern
+Listener Pattern
+Observer Pattern
+!-->
+
+## Magic Boxes
+
+### How can it be easily expanded?
+
+### Used Libraries
+
+### Learning
+
+#### Can it be done?
+#### Can I do it?
+#### *To be continued....*
