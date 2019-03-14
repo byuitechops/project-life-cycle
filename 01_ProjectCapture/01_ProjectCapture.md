@@ -5,7 +5,7 @@
 This is the first stage of the project. In fact, this is the stage that gets the initial objective and requirements for the project.
 
 ### Deliverables
-1. Project Capture Document [template](../01_ProjectCaptureDoc.md)
+1. Project Capture Document [template](../01_ProjectCapture/01_ProjectCaptureDoc.md)
 
 ### Time Estimate: 1-3 hours
 
