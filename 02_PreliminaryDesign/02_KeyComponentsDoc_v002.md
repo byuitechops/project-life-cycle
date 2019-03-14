@@ -22,3 +22,6 @@
 - What is the definition of done for my learning process
 - How do I measure the progress of learning
 - Is there a deliverable that can be created during the learning process?
+
+#### Approved By:
+#### Approved Date:
