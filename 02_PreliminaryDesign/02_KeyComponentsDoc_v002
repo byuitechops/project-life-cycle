@@ -1,24 +1,24 @@
 # Key Components Doc for <Project>
 
-## Choose Your Design Pattern
-<!--
-Overall Design Pattern...
-...Design Pattern of specific boxes (parts):
-Model View Controller
-Model View Interface
-Adapter Pattern
-Listener Pattern
-Observer Pattern
-!-->
+## Magic 
+<!-- Here put magic box chart created with whiteboard -->
 
-## Magic Boxes
-
-### How can it be easily expanded?
+## Explanation of Design
+<!-- Add explanation of the Magic Boxes image above. Answers to the prompts below may also be appropriate to include here. -->
 
 ### Used Libraries
 
-### Learning
+## Things to Consider Before Getting Project Approved
+- Are there any approved libraries that I can use? [Link to Approved Library List]
+- Are there design patterns that will help?  [Link to Design Patterns]
+- Can I design it so that it is a general tool instead of a specific solution?
+- How can it be easily expanded?
+- What does the minimum viable product look like?
 
-#### Can it be done?
-#### Can I do it?
-#### *To be continued....*
+## Prep for Learning Phase
+- What do I need to learn
+- How will I learn it
+- What will I do to learn it (prototypes/tutorials/research time limit?)
+- What is the definition of done for my learning process
+- How do I measure the progress of learning
+- Is there a deliverable that can be created during the learning process?
