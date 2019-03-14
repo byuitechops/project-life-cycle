@@ -3,10 +3,16 @@
 ## Purpose and Overview
 This is the second stage of a project. This document that is output from this stage is the Key Components Doc. The purpose of this stage is:
 
-1. To ensure the project CAN be done and a little bit of HOW that would happen.
-1. To help the developer get her/his hands dirty exploring the territory of the project (he/she will learn what tools are needed).
-1. To come up with a basic design and then get that design approved. This saves time in the long run because having a good design at the start avoids having to rewrite/patch portions of code written with bad or mediocre design. 
-1. Additionally this process produces a valuable document that will make the project both better documented and easily transferable.
+1. Help the developer learn how to design so that code is:
+     - Maintainable
+     - Scalable
+     - Reusable
+     - Easy to Understand
+1. Fail Fast (by sharing ideas and getting feedback)
+1. Distributable work (portions OR all of the project can be given out to others to do)
+1. Make sure we are not starting from scratch unless we have to. (Checking approved libraries first).
+1. Where we can, open the scope of the project to general use as a tool that we can add to our tool belt.
+
 
 ### Deliverables
 1. Key Components Document [template](../02_KeyComponentsDoc.md)
@@ -16,7 +22,34 @@ This is the second stage of a project. This document that is output from this st
 
 Developers should anticipate that their design will change after conversations with more senior developers. They should approach the approval process with a "How can my design be better?" attitude.
 
-## Tutorial of Process
+## NEW Tutorial of Process
+
+1. Create the Magic Boxes
+1. Run through checklist
+1. Set up meeting with Josh/Leads
+
+
+Checklist:
+- Libraries
+- Design patterns
+- Open Scope
+- What do I need to learn
+- How will I learn it
+- What will I do to learn it (prototypes/tutorials/research time limit?)
+- What is the definition of done for my learning process
+
+Ways to learn:
+- From Josh, from Peers, from pluralsight, from prototype
+
+
+Meeting with Josh/Leads:
+- First 5 minutes, report to Josh/Leads (INPUT)
+- Next 10 minutes discuss with Josh/Leads (FUNCTION)
+- Last 5 minutes, Josh/Leads approve a learning plan
+
+
+
+## OLD Tutorial of Process
 
 Congratulations! If you are reading this chances are your project has made it through the Project Capture Process! Now you are ready to do some research, come up with a light weight design and prototype those parts of the design/project that you are learning (e.g. test a library that you've never used before)!  What follows are the steps of this process. The Key Components Doc will serve sort of as a worksheet as you make your way through this stage, but it will also serve as an artifact (a fancy way of saying a document that we want to keep for reference and historical purposes).
 
