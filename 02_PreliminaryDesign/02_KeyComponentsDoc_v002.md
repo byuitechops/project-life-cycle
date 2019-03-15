@@ -1,5 +1,7 @@
 # Key Components Doc for <Project>
-
+#### *Author: Your_Name_Here*
+#### *Date: Todays Date*
+  
 ## Magic Box Chart
 <!-- Think through the process as much as makes sense, and then create a magic box chart with the whiteboard and place it here. -->
 
@@ -23,5 +25,8 @@
 - How do I measure the progress of learning
 - Is there a deliverable that can be created during the learning process?
 
-#### Approved By:
-#### Approved Date:
+-----
+
+#### *Approved By:* 
+#### *Approval Date:*
+
