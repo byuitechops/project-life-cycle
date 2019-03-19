@@ -27,6 +27,58 @@
 
 -----
 
-#### *Approved By:* 
-#### *Approval Date:*
+#### *Preliminary Design Approved By:* 
+#### *Preliminary Design Approval Date:*
+
+## Component Diagrams
+
+<!-- Diagrams and companion explanations for all Key Components.
+These would include information about inputs, outputs, and what a function does for every major function. -->
+
+<!-- For each component, the following template will be followed: (In other words, the template below will repeat for each component)-->
+
+### *Insert Component name here*
+
+Diagram:
+
+*Insert Diagram Here*
+
+Explanation:
+
+*Insert Explanation here*
+
+
+## Test Plans
+
+<!-- For each major function the test plan template will be as follows (in other words the template below will repeat for each test) -->
+
+### *Insert name of component here (e.g. convertIdToCourseObject function)*
+
+#### Test 1: *Insert Test name here*
+
+Summary: 
+*Insert Test Summary Here*
+
+Type: *Insert Type here (Unit Test, Manual Test, Selenium/Puppeteer test (Overkill?))*
+
+Procedure:
+1. *Insert Steps here*
+1. *and here*
+1. *and here*
+
+Expected Outcome:
+*Insert Expected Outcome here*
+
+-----
+
+#### *Full Design Approved By:* 
+#### *Full Design Approval Date:*
+
+
+<!-- Diagram Types:
+ - Data Flow (I think this will be the most popular)
+ - Structure Charts (This is really good for showing input and output of every function)
+ - UML Class Diagram (a must for object oriented projects) -->
+
+
 
