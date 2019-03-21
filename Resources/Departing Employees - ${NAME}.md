@@ -2,6 +2,14 @@
 
 First off, thank you for your time and diligence serving the people of BYU-Idaho and its affiliates. To ensure a smooth exit, please be sure to complete the following:
 
+To utilize this, please copy the Markdown code for this project and create a Markdown file for this. Please replace ${NAME} with your name.
+
+To actually check things off, please insert an X between [ ].
+
+For example
+- [ ] Not completed
+- [X] Completed
+
 ## One week before official departure date
 
 ### Required documents for all ongoing projects assigned on or after March 1, 2019.
