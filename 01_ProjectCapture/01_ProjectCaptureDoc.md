@@ -92,6 +92,13 @@ Don't Example 2:
 
 ### Timeline
 
+<!-- Include Milestone List here with Deadlines and try to make each milestone a minimum viable product
+- Milestone 1: Finish Design (3/19)
+- Milestone 2: Build Core logic to search for words in syllabi (3/22)
+- Milestone 3: Connect inputs to core logic and set up outputs (3/25)
+- Milestone 4: Deliver the project (3/26)
+This will probably be overkill for large projects -->
+
 ### Best Mode of Contact
 
 ### Next Meeting
