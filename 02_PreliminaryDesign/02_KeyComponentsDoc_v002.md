@@ -1,7 +1,9 @@
 # Key Components Doc for <Project>
 #### *Author: Your_Name_Here*
 #### *Date: Todays Date*
-  
+
+# Preliminary Design
+
 ## Magic Box Chart
 <!-- Think through the process as much as makes sense, and then create a magic box chart with the whiteboard and place it here. -->
 
@@ -29,6 +31,8 @@
 
 #### *Preliminary Design Approved By:* 
 #### *Preliminary Design Approval Date:*
+
+# Full Design
 
 ## Component Diagrams
 
