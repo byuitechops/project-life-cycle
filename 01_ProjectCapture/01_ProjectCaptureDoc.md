@@ -97,7 +97,7 @@ Don't Example 2:
 - Milestone 2: Build Core logic to search for words in syllabi (3/22)
 - Milestone 3: Connect inputs to core logic and set up outputs (3/25)
 - Milestone 4: Deliver the project (3/26)
-This will probably be overkill for large projects -->
+This will probably be overkill for small projects -->
 
 ### Best Mode of Contact
 
