@@ -35,7 +35,6 @@
 # Full Design
 
 ## Component Diagrams
-
 <!-- Diagrams and companion explanations for all Key Components.
 These would include information about inputs, outputs, and what a function does for every major function. -->
 
@@ -51,27 +50,30 @@ Explanation:
 
 *Insert Explanation here*
 
-
+<!-- For a future release:
 ## Test Plans
-
-<!-- For each major function the test plan template will be as follows (in other words the template below will repeat for each test) -->
-
+For each major function the test plan template will be as follows (in other words the template below will repeat for each test) 
 ### *Insert name of component here (e.g. convertIdToCourseObject function)*
-
 #### Test 1: *Insert Test name here*
-
 Summary: 
-*Insert Test Summary Here*
-
-Type: *Insert Type here (Unit Test, Manual Test, Selenium/Puppeteer test (Overkill?))*
-
+ *Insert Test Summary Here*
+ Type: *Insert Type here (Unit Test, Manual Test, Selenium/Puppeteer test (Overkill?))* 
 Procedure:
 1. *Insert Steps here*
 1. *and here*
 1. *and here*
-
 Expected Outcome:
 *Insert Expected Outcome here*
+-->
+
+## Test Plans
+
+### *Insert Module Name Here*
+#### How to Test:
+
+
+
+
 
 -----
 
