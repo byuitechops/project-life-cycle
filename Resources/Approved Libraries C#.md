@@ -1,2 +1,0 @@
-# Approved C# Library List
-
